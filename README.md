@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>
+
 I'm Harish, from India! :rocket:
 <br>
 - 🔭 I’m currently working on Interesting Dev projects on Next.js, Rust and Javascript.
