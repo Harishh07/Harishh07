@@ -5,7 +5,7 @@ I'm Harish, from India! :rocket:
 - 🔭 I’m currently working on Interesting Dev projects on Next.js, Rust and Javascript :computer: ...
 - 👯 Would love to collaborate on anything releted to Tech, Design, and Aesthetics ✨ ...
   <br>
-- 📫 Reach me: iharishh07@gmail.com
+- 📫 Reach me: ``` iharishh07@gmail.com ```
 
 Cheers! ⚡
 <!--
