@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Interesting Dev projects on Next.js, Rust and Javascript.
+- 📫 Reach me: iharishh07@gmail.com
+
+Cheers! 😄
 <!--
 **Harishh07/Harishh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
