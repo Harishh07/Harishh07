@@ -1,4 +1,6 @@
 ### Hi there 👋
+<br>
+I'm Harish, from India 🇮🇳
 
 - 🔭 I’m currently working on Interesting Dev projects on Next.js, Rust and Javascript.
 - 👯 Would love to collaborate on anything releted to Tech, Design, and Aesthetics ✨ ...
