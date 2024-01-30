@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Interesting Dev projects on Next.js, Rust and Javascript.
+- 👯 I would love to collaborate on anything releted to Tech, Design, and Humour ✨ ...
+  <br>
 - 📫 Reach me: iharishh07@gmail.com
 
 Cheers! 😄
